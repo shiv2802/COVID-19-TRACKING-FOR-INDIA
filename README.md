@@ -1,2 +1,5 @@
 # COVID-19-TRACKING-FOR-INDIA
-use this code for building a COVID-19 TRACKING SYSTEM
+This website is made using HTML, CSS and Javascript
+i will be a fun to create this website try it out
+
+# at the end it would look like

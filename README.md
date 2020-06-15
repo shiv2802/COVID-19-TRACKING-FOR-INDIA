@@ -4,6 +4,6 @@ it will be a fun to create this website try it out
 
 # At  the end it will look like this
 
-❮img src="" ❯
+❮img src="github img readme" ❯
 Then you can add width and height attributes
-❮img src="" width="100" ❯
+❮img src="github img readme" width="100" ❯

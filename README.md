@@ -4,5 +4,6 @@ it will be a fun to create this website try it out
 
 # At  the end it will look like this
 
-
-![](github img readme/screenshot.gif)
+❮img src="" ❯
+Then you can add width and height attributes
+❮img src="" width="100" ❯

@@ -5,6 +5,4 @@ it will be a fun to create this website try it out
 # At  the end it will look like this
 
 
--Create an images/ or pictures/ folder in your repo
--use relative paths to insert a markdown image
-![]()
+
